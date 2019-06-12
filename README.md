@@ -9,11 +9,11 @@ Java 1.8
 ## Starting the server
 Quick start
 
-`./mail-0.0.1-SNAPSHOT.jar`
+`./mail-1.0.0.jar`
 
 More complicated, add config properties on the end.
 
-`./mail-0.0.1-SNAPSHOT.jar --pop3.enabled=false`
+`./mail-1.0.0.jar --pop3.enabled=false`
 
 ## Config
 
